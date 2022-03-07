@@ -1,0 +1,22 @@
+total 20
+-rwxr-xr-x 1 Stephen 197121 23 Mar  4 01:42 0-iam_betty*
+-rwxr-xr-x 1 Stephen 197121 21 Mar  4 01:42 1-who_am_i*
+-rwxr-xr-x 1 Stephen 197121 44 Mar  4 01:42 10-mirror_permissions*
+-rwxr-xr-x 1 Stephen 197121 36 Mar  4 01:55 100-change_owner_and_group*
+-rwxr-xr-x 1 Stephen 197121 44 Mar  4 01:55 101-symbolic_link_permissions*
+-rwxr-xr-x 1 Stephen 197121 49 Mar  4 01:42 102-if_only*
+-rwxr-xr-x 1 Stephen 197121 44 Mar  4 01:42 103-Star_Wars*
+-rwxr-xr-x 1 Stephen 197121 36 Mar  4 01:42 11-directories_permissions*
+-rwxr-xr-x 1 Stephen 197121 34 Mar  4 01:42 12-directory_permissions*
+-rwxr-xr-x 1 Stephen 197121 33 Mar  4 01:42 13-change_group*
+-rw-r--r-- 1 Stephen 197121  2 Mar  4 00:50 16-if_only
+-rwxr-xr-x 1 Stephen 197121 21 Mar  4 01:42 2-groups*
+-rwxr-xr-x 1 Stephen 197121 32 Mar  4 01:42 3-new_owner*
+-rwxr-xr-x 1 Stephen 197121 26 Mar  4 01:42 4-empty*
+-rwxr-xr-x 1 Stephen 197121 30 Mar  4 01:42 5-execute*
+-rwxr-xr-x 1 Stephen 197121 35 Mar  4 01:42 6-multiple_permissions*
+-rwxr-xr-x 1 Stephen 197121 32 Mar  4 01:42 7-everybody*
+-rwxr-xr-x 1 Stephen 197121 30 Mar  4 01:42 8-James_Bond*
+-rwxr-xr-x 1 Stephen 197121 30 Mar  4 01:42 9-John_Doe*
+-rw-r--r-- 1 Stephen 197121 15 Mar  4 02:04 README.md
+-rw-r--r-- 1 Stephen 197121  0 Mar  6 17:39 file.txt
